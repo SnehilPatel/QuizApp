@@ -11,4 +11,4 @@ Quiz App
 
 
 
-Deployed App on Netlify: [Quiz-App](https://note-it-by-snehil.netlify.app/](https://quiz-app-by-snehil.netlify.app/)
+Deployed App on Netlify: [Quiz-App](https://quiz-app-by-snehil.netlify.app/)
